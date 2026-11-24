@@ -1,0 +1,8 @@
+{
+  "name": "Enjoy AI 2026 — Robot Quiz Studio",
+  "description": "Nền tảng lập trình khối lệnh và mô phỏng sa bàn 2D/3D cho 5 đề thi Robot Quiz Enjoy AI 2026.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
